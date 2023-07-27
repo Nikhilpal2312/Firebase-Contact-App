@@ -1,1 +1,1 @@
-# Firebase-Contact-App
+I am creating a Firebase Contact App Project in React. In this project, I'm using Tailwind CSS, Chakra UI, React Icons, Firebase, Formik, and React Toastify. Please check my work and give me your valuable feedback.
